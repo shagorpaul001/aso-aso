@@ -1,0 +1,56 @@
+/* google link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.time {
+    padding: 150px 0;
+    background-color: black;
+}
+div.digit {
+  height:360px;
+  width:300px;
+  float:left;
+}
+ 
+div.digit div {
+  height:40px;
+  width:40px;
+  float:left;
+  border:2px solid;
+  border-radius:15px;
+}
+ 
+
+div.digit div.horizontal {width:120px; }
+
+div.digit div.vertical {height:120px; }
+
+div.digit div.block {
+
+  height:120px;
+
+  width:120px;
+
+}
+
+ 
+
+div.digit div.row {clear:left; }
+
+/* time end */
+
+/* img start */
+
+.box{
+  min-height: 500px;
+}
+
+/*  img end */
+/* slider start */
+.wrapper{
+  margin: 100px 0;
+}
+.pnd{
+  padding: 0px 10px;
+}
+/* slider end */
